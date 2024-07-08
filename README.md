@@ -1,6 +1,8 @@
 # Automatic Detection of Craters & Boulders from OHRC Images
 
-This project aims to develop an AI/ML model to automatically detect craters and boulders from Orbiter High Resolution Camera (OHRC) images using AI/ML techniques.
+This project aims to develop an AI/ML model to automatically detect craters and boulders from Orbiter High Resolution Camera (OHRC) images using AI/ML techniques. 
+
+[Bharatiya Antriksh Hackathon - 2024](https://isro.hack2skill.com/2024/)
 
 ## Objectives
 
@@ -13,7 +15,7 @@ This project aims to develop an AI/ML model to automatically detect craters and 
 
 ## Dataset Required
 
-- OHRC datasets publicly available in PDS4 format on Chandrayaan Map Browse
+- OHRC datasets publicly available in PDS4 format on [Chandrayaan Map Browse](https://chmapbrowse.issdc.gov.in/)
 
 ## Suggested Tools/Technologies
 
